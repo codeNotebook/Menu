@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         TextView menuItem1TextView = findViewById(R.id.menu_item_1);
         String menuItem1 = menuItem1TextView.getText().toString();
         Log.v("MainActivity.java", menuItem1);
-        // Find second menu item TextView and print the text to the logs
+        // Find second menu item TextVivbvbvbvbvew and print the text to the logs
 
         // Find third menu item TextView and print the text to the logs
 
