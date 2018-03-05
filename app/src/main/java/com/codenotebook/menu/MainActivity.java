@@ -28,6 +28,5 @@ public class MainActivity extends AppCompatActivity {
         String menuItem3 = menuItem1TextView.getText().toString();
         Log.v("MainActivity.java", menuItem3);
 
-        // test log
     }
 }
