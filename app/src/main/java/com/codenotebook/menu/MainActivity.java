@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         TextView menuItem3TextView = findViewById(R.id.menu_item_3);
         String menuItem3 = menuItem1TextView.getText().toString();
         Log.v("MainActivity.java", menuItem3);
-        // in b4 test commit again
+        // in b5 test commit again
 
     }
 }
