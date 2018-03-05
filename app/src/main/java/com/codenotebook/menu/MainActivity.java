@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void printToLogs(View view) {
         // Find first menu item TextView and print the text to the logs
-        TextView tv1 = findViewById(R.id.menu_item_1);
-        String menuItem1 = tv1.getText().toString();
+        TextView menuItem1TextView = findViewById(R.id.menu_item_1);
+        String menuItem1 = menuItem1TextView.getText().toString();
         Log.v("MainActivity.java", menuItem1);
         // Find second menu item TextView and print the text to the logs
 
